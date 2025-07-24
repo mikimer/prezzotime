@@ -9,18 +9,20 @@ I believe in the concept of [one-idea-per-slide](https://www.youtube.com/shorts/
 I wanna build "an app for that".
 
 
-## Solution:
-Input values
+## Solution: Prezzotimer app 
+Input values: 
   - Presentation duration (e.g., 2 hours)
   - Total slides (e.g., 250) 
   - Start time (e.g., 2.30pm) since I'll launch this app 10 to 20 mins before I begin presenting.
  
-Output: a timer that counts 1->250 over 2 hours so I can compare the slide timer with the current slide.
+Output: 
+  - A timer that counts 1->250 over 2 hours so I can compare the slide timer with the current slide.
+  - The timer should be large (full screen) when I'm giving an in-person workshop and small (ideally in the Menu Bar) for on-line webinars. 
 
-Future development: I use Google Presentations so I could see if I could link this app to gPreso so it would automatically see which slide I'm on and provide more useful feedback.
+Future development: I use Google Presentations so I could try to link this app to gPreso so it would automatically see which slide I'm on and provide more useful feedback.
 
 
-Assume: [screen extension, not display mirroring](Mac-External-Displays-Arrangment.jpg)
+Assume: [screen extension, not display mirroring](Mac-External-Displays-Arrangment.jpg) during in-person workshops.
 
 
 
