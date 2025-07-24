@@ -25,4 +25,15 @@ Future development: I use Google Presentations so I could try to link this app t
 Assume: [screen extension, not display mirroring](Mac-External-Displays-Arrangment.jpg) during in-person workshops.
 
 
+## Details
+
+- Smart time input: Accepts start times in many formats, including '2pm', '2:30pm', '14:00', '1400', '2.20', and '14.20'.
+- Defaults for rapid setup: During development, the slides and duration fields autopopulate with 100 and 10, respectively.
+- Buffer field: Specify a buffer (default 10 minutes) to end the timer early and leave time for Q&A or wrap-up.
+- Waiting screen: If the start time is in the future, the app displays a clear waiting message, current time, and a countdown until the presentation begins.
+- User-friendly time display: All times are shown in 12-hour am/pm format for clarity.
+- Input validation: The app checks for valid numbers and ensures the buffer is less than the total duration.
+- Modular, refactored code: Timer logic and time parsing are separated for easier maintenance and future improvements.
+
+
 
